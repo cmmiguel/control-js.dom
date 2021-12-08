@@ -1,0 +1,16 @@
+{
+  "name": "2-JS",
+  "version": "1.0.0",
+  "description": "Edita el archivo script.js para crear una función que reciba una array de objetos (equipos y puntos conseguidos) y muestre por consola el ** nombre ** del que más y del que menos puntos hayn conseguido, con sus respectivos ** totales **.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --files 'www' --server 'www'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.7"
+  }
+}
